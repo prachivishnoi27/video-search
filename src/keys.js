@@ -1,1 +1,0 @@
-module.exports('AIzaSyChpHku6_FR3xxA7t78DDYxKY8IfwtSgv0');
