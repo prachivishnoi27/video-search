@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
-.src/api/youtube.js
+.youtube.js
 .pnp.js
 
 # testing
