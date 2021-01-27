@@ -3,9 +3,8 @@
 # dependencies
 /node_modules
 /.pnp
-
+.src/api/youtube.js
 .pnp.js
-.api/youtube.js
 
 # testing
 /coverage
